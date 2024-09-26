@@ -16,6 +16,7 @@ All the resources are 2023 Fall semester version.
 - Coding Labs with solutions: under [labs/](./labs) folder
   - Skeleten Code
   - Official Solution
+- Schedule: [schedule](./Schedule.pdf)
 
 ## Wanna Learn More ?
 
