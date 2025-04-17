@@ -1,0 +1,12 @@
+name: ee126_lab0
+channels:
+  - defaults
+dependencies:
+  - python==3.9
+  - pip:
+    - jupyter
+    - jupyter-client
+    - jupyter-console
+    - jupyter-core
+    - matplotlib
+    - numpy

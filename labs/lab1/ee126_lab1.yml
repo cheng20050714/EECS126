@@ -1,0 +1,11 @@
+name: ee126_lab1
+channels:
+  - defaults
+dependencies:
+  - pip:
+    - jupyter
+    - jupyter-client
+    - jupyter-console
+    - jupyter-core
+    - matplotlib
+    - numpy
